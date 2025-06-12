@@ -1,1 +1,19 @@
 ISOStandardsInfo
+
+"iso standard for artificial intelligence and machine learning"
+
+The primary ISO standards addressing artificial intelligence (AI) and machine learning (ML) are ISO/IEC 42001 (AI management system) and ISO/IEC 23053 (AI framework using ML). ISO/IEC 42001 provides a framework for managing AI systems, including risk management and governance, while ISO/IEC 23053 offers a common language and framework for describing ML-based AI systems. [1, 2]  
+Here's a more detailed look: 
+
+• ISO/IEC 42001:2023: This standard provides a structured framework for developing and implementing an AI management system (AIMS). It helps organizations establish policies and procedures for sound governance of AI, including risk management and impact assessment. [1, 1, 3, 3]  
+• ISO/IEC 23053:2022: This standard focuses on establishing a conceptual framework and shared terminology for describing AI systems that use machine learning. It provides a unified vocabulary and model for ML-based AI systems, aiding in communication and understanding among stakeholders. [2, 2]  
+• ISO/IEC 22989:2022: This standard defines AI terminology and concepts, providing a common language for discussing AI. [1, 4, 4, 5, 6]  
+• ISO/IEC 23894:2023: This standard offers guidance on AI-related risk management for organizations. [1, 1]  
+• ISO/IEC 5338:2023: This standard focuses on AI system lifecycle processes, guiding the development, deployment, and operation of AI systems. [3, 7, 8, 9, 10, 11]  
+
+These standards, along with others in the ISO/IEC AI series, aim to promote responsible and ethical AI development and implementation by addressing key aspects like governance, risk management, and system lifecycle management. [1, 2, 3]  
+
+AI responses may include mistakes.
+
+[1] https://www.iso.org/standard/81230.html[2] https://www.iso.org/standard/74438.html[3] https://kpmg.com/ch/en/insights/artificial-intelligence/iso-iec-42001.html[4] https://www.iso.org/standard/74296.html[5] https://www.iec.ch/blog/artificial-intelligence-why-terminology-matters[6] https://www.centraleyes.com/question/what-are-the-iso-standards-for-ai/[7] https://www.iso.org/sectors/it-technologies/ai[8] https://www.iso.org/standard/81118.html[9] https://www.linkedin.com/pulse/iso-standards-ai-whither-thou-goest-rajiv-bahl-10m9c[10] https://blog.johner-institute.com/regulatory-affairs/regulatory-requirements-for-medical-devices-with-machine-learning/[11] https://www.itgovernance.co.uk/shop/product/isoiec-53382023-standard
+Not all images can be exported from Search.
