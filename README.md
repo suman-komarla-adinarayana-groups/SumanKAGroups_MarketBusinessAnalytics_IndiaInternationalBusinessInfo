@@ -45,6 +45,9 @@ Sl No.	Open Standard	Link	Info	Comment	github
 2	OpenML	https://new.openml.org/	https://en.wikipedia.org/wiki/OpenML	unsupervised learning	https://github.com/openml/openml.org
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+https://github.com/EthicalML/awesome-artificial-intelligence-regulation/tree/master
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Tools₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 Python Libraries
