@@ -33,6 +33,8 @@ Bivariate Analysis
 
 Multivariate Analysis
 
+Decision Trees
+
 Natural Language Processing
 
 Exploratory Data Analysis
