@@ -33,6 +33,8 @@ Bivariate Analysis
 
 Multivariate Analysis
 
+Natural Language Processing
+
 Exploratory Data Analysis
 
 
