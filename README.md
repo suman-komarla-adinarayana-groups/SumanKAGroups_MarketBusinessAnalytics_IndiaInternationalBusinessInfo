@@ -19,9 +19,35 @@ Rust
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Process₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
-
+Generative AI
+AGENTIC AI
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Process₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+Microsoft Co-Pilot
+GitHub Co-Pilot
+ChatGPT
+Google GEMINI
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUPERCOMPUTER/Mainframe/Server/Cloud/SAAS INFRASTRUCTURE₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+INTEL
+AMD
+IBM
+GOOGLE/ALPHABET
+MICROSOFT
+FACEBOOK/META
+TESLA/SPACEX
+PERPLEXITY
+
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUPERCOMPUTER/Mainframe/Server/Cloud/SAAS INFRASTRUCTURE₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Methods₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ORM - Object Relational Mapping
 
@@ -54,10 +80,10 @@ Sl No.	Open Standard	Link	github Info	Comment
 
 4, OpenCV , https://opencv.org/, https://github.com/opencv/opencv, Open Source Vision Foundation
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML - GITHUB STARRED USERS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://github.com/EthicalML/awesome-artificial-intelligence-regulation/tree/master
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML- GITHUB STARRED USERS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source Business Intelligence Tools ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
@@ -84,8 +110,25 @@ Numpy
 
 Pandas
 
+TensorFlow
 
+PyTorch
 
+Scikit-learn
+
+Keras
+
+OpenCV
+
+Hugging Face Transformers
+
+NLTK (Natural Language Toolkit)
+
+SpaCy
+
+Gensim
+
+XGBoost
 
 SQL Alchemy
 
