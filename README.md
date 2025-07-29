@@ -44,11 +44,15 @@ Exploratory Data Analysis
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-Sl No.	Open Standard	Link	Info	Comment	github	
+Sl No.	Open Standard	Link	github Info	Comment		
 
-1	OpenAI	https://openai.com/	https://en.wikipedia.org/wiki/OpenAI	Artificial General Intelligence/Generative AI	https://github.com/openai/openai-python	
+1,	OpenAI,	https://openai.com/	https://en.wikipedia.org/wiki/OpenAI,	https://github.com/openai/openai-python,	Artificial General Intelligence/Generative AI	
 
-2	OpenML	https://new.openml.org/	https://en.wikipedia.org/wiki/OpenML	unsupervised learning	https://github.com/openml/openml.org
+2,	OpenML,	https://new.openml.org/	https://en.wikipedia.org/wiki/OpenML,https://github.com/openml/openml.org,	unsupervised learning	
+
+3, OpenCog , https://wiki.opencog.org/w/The_Open_Cognition_Project, https://github.com/opencog/, Artificial General Intelligence
+
+4, OpenCV , https://opencv.org/, https://github.com/opencv/opencv, Open Source Vision Foundation
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
