@@ -21,25 +21,40 @@ Rust
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Process₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 Generative AI
+
 AGENTIC AI
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Process₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 Microsoft Co-Pilot
+
 GitHub Co-Pilot
+
 ChatGPT
+
 Google GEMINI
+
 DEEPSEEK
+
 IBM WATSON
+
 Claude
+
 Writesonic
+
 Pytorch
+
 TENSOR FLOW
+
 OpenNLP
+
 ACUMOS
+
 Llama
+
 A121 Labs
+
 Antropic
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
@@ -47,13 +62,21 @@ Antropic
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUPERCOMPUTER/Mainframe/Server/Cloud/SAAS INFRASTRUCTURE₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 INTEL
+
 AMD
+
 IBM
+
 ARM
+
 GOOGLE/ALPHABET
+
 MICROSOFT
+
 FACEBOOK/META
+
 TESLA/SPACEX
+
 PERPLEXITY
 
 
@@ -82,6 +105,7 @@ Exploratory Data Analysis
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Methods₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://opensource.org/ai
+
 https://opensource.org/affiliates
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ OPEN FRAMEWORKS AND COMMERCIAL FRAMEWORKS - AI\ML ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
