@@ -1,4 +1,4 @@
-Sl No, Import Library,From Library , Link,Applications,Comment,Info,
+Sl No, From Library,Import SubLibrary , Link,Applications,Comment,Info,
 1,Pandas,,https://pandas.pydata.org/,,,,
 2,NumPy,,,,,,
 3,Scikit,,,,,,
