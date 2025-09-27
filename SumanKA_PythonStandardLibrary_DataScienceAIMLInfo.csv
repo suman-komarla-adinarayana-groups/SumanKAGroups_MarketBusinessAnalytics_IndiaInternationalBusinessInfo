@@ -1,6 +1,6 @@
 Sl No, From Library,Import SubLibrary , Path,Applications,Comment,Info,
 1,Pandas,,https://pandas.pydata.org/,,,,
-2,NumPy,,,,,,
+2,NumPy,,https://numpy.org/contribute/,,,,
 3,Scikit,,,,,,
 4,matplot,,,,,,
 5,matplotlib,,,,,,
