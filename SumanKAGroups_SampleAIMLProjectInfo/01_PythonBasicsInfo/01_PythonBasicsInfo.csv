@@ -1,1 +1,3 @@
-
+Sl No, Command, Info, Comment
+1, python --help,,
+2, python .\HelloWorld.ipynb,,
