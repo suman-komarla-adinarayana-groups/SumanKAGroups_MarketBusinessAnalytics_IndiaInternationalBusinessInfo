@@ -31,3 +31,9 @@ INSERT INTO SKA_Github_OfficialOpenSourceProviders (    OrganisationID ,    Proj
 VALUES (1, 'Microsoft', 'Microsoft', 'vscode', '4400',1);
 
 SELECT * FROM SKA_Github_OfficialOpenSourceProviders;
+
+
+INSERT INTO SKA_Github_OfficialOpenSourceProviders (    OrganisationID ,    Project ,    Repository1,    Projects1 ,    People, Sponsoring )
+VALUES (1, 'Python', 'Python', 'cpython', '137',0);
+
+SELECT * FROM SKA_Github_OfficialOpenSourceProviders;
