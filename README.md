@@ -19,6 +19,11 @@ ISO/IEC 5338:2023 Information technology — Artificial intelligence — AI syst
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise AI Tools and ISO AI Standards₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise AI Tools and ISO AI Standards₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise AI Tools and ISO AI Standards₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
 
@@ -46,7 +51,8 @@ AGENTIC AI
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Process₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹
+
 Microsoft Co-Pilot
 
 GitHub Co-Pilot
@@ -77,9 +83,9 @@ A121 Labs
 
 Antropic
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUPERCOMPUTER/Mainframe/Server/Cloud/SAAS INFRASTRUCTURE₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUPERCOMPUTER/Mainframe/Server/Cloud/SAAS INFRASTRUCTURE₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 INTEL
 
@@ -100,7 +106,7 @@ TESLA/SPACEX
 PERPLEXITY
 
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUPERCOMPUTER/Mainframe/Server/Cloud/SAAS INFRASTRUCTURE₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUPERCOMPUTER/Mainframe/Server/Cloud/SAAS INFRASTRUCTURE₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Methods₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
