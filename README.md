@@ -141,6 +141,8 @@ Sl No.	Open Standard	Link	github Info	Comment
 
 4, OpenCV , https://opencv.org/, https://github.com/opencv/opencv, Open Source Vision Foundation
 
+5. Open Standards,  https://www.oasis-open.org/projects-committees/
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Open Source AI\ML - GITHUB STARRED USERS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://github.com/EthicalML/awesome-artificial-intelligence-regulation/tree/master
