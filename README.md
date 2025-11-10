@@ -2,7 +2,7 @@
 Artificial Intelligence and Machine Learning Code Information
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise AI Tools and ISO AI Standards₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
-4
+
 ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology
 
 ISO/IEC 42001:2023 Information technology — Artificial intelligence — Management system
