@@ -135,11 +135,17 @@ https://opensource.org/ai
 https://opensource.org/affiliates
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Open Datasets₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
 1	India AI	https://indiaai.gov.in/datasets					
+
 2	Open Government Data - National	https://github.com/DataPortalIndia					
+
 3	Open Government Data - State	https://karnataka.data.gov.in/					
+
 4	Open Government Data - International						
+
 5	National Data and Analytics Platform (NDAP)	https://ndap.niti.gov.in/catalogue
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Open Datasets₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
