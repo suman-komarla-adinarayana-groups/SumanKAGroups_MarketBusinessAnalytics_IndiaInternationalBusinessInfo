@@ -69,6 +69,10 @@ SECTOR_FMCG -
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Languages And Tools₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
