@@ -30,26 +30,39 @@ ISO/IEC TR 5469:2024 Artificial intelligence — Functional safety and AI system
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise AI Tools and ISO AI Standards₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
 GLOBAL MARKET SECTORS with Futuristic Applications of AI/Early Adopters
 
 SECTOR_AUTO - 
+
 SECTOR_IT - 
+
 SECTOR_BANK - 
+
 SECTOR_HEALTHCARE - 
+
 SECTOR_REIT - 
+
 SECTOR_MEDIA -
+
 SECTOR_METAL - 
+
 SECTOR_PHARMA - 
+
 SECTOR_CONSUMERDURABLES - 
+
 SECTOR_OILandGAS - 
+
 SECTOR_TELECOM - 
+
 SECTOR_CHEMICALS - 
+
 SECTOR_FINANCIALSERVICES - 
+
 SECTOR_FMCG - 
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
-
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
