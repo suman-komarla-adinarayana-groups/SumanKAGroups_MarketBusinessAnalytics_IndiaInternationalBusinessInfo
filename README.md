@@ -67,13 +67,21 @@ SECTOR_FMCG -
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://indiaopensource.com/our-magazines/
+
 https://magazine.opensourceforu.com/
+
 https://mysubs.in/category/education-magazine-subscription?
+
 https://indiamags.com/category/education-magazines
+
 https://opensource.com/
+
 https://joss.theoj.org/
+
 https://www.codemag.com/Magazine
+
 https://github.blog/news-insights/company-news/2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/
+
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
