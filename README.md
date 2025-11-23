@@ -83,6 +83,14 @@ https://www.codemag.com/Magazine
 https://github.blog/news-insights/company-news/2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/
 
 
+Research Paper Publications - 
+
+https://www.jair.org/index.php/jair
+
+https://ijai.iaescore.com/index.php/IJAI
+
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
