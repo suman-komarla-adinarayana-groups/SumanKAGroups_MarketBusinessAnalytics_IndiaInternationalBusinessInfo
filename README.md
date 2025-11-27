@@ -307,5 +307,8 @@ XGBoost
 
 SQL Alchemy
 
+/*statistics*/
+
+scipy.stats - https://docs.scipy.org/doc/scipy/reference/stats.html
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Tools₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
