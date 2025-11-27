@@ -64,6 +64,11 @@ SECTOR_FMCG -
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+Massive_open_online_course/OpenCourseware/Free Learning Courses
+
+https://www.open.edu/openlearn/local/ocwglobalsearch/search.php?q=artificial%20intelligence
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://indiaopensource.com/our-magazines/
