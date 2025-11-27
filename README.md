@@ -66,6 +66,8 @@ SECTOR_FMCG -
 
 Massive_open_online_course/OpenCourseware/Free Learning Courses
 
+https://en.wikipedia.org/wiki/Massive_open_online_course
+
 https://www.open.edu/openlearn/local/ocwglobalsearch/search.php?q=artificial%20intelligence
 
 
