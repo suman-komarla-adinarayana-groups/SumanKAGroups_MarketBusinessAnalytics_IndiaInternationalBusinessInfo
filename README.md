@@ -70,6 +70,7 @@ https://en.wikipedia.org/wiki/Massive_open_online_course
 
 https://www.open.edu/openlearn/local/ocwglobalsearch/search.php?q=artificial%20intelligence
 
+https://swayam.gov.in/search_courses?searchText=aritificial%20intelligence
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
