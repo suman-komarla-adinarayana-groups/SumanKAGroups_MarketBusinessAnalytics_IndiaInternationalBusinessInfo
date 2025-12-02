@@ -74,6 +74,10 @@ https://swayam.gov.in/search_courses?searchText=aritificial%20intelligence
 
 https://www.youtube.com/@ignou
 
+https://onlinecourses.nptel.ac.in/
+
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://indiaopensource.com/our-magazines/
