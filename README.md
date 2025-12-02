@@ -72,6 +72,8 @@ https://www.open.edu/openlearn/local/ocwglobalsearch/search.php?q=artificial%20i
 
 https://swayam.gov.in/search_courses?searchText=aritificial%20intelligence
 
+https://www.youtube.com/@ignou
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://indiaopensource.com/our-magazines/
