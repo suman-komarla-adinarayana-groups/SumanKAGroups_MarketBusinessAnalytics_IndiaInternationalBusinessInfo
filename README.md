@@ -1,5 +1,5 @@
-# SumanKAGroups_ArtificialIntelligenceMachineLearningCodeInfo - AITPA9662R
-Artificial Intelligence and Machine Learning Code Information
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Suman Komarla Adinarayana - AITPA9662R - Groups -   Artificial Intelligence And Machine Learning Code Information ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise AI Tools and ISO AI Standards₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
@@ -339,3 +339,7 @@ SQL Alchemy
 scipy.stats - https://docs.scipy.org/doc/scipy/reference/stats.html
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Tools₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Suman Komarla Adinarayana - AITPA9662R - Groups -   Artificial Intelligence And Machine Learning Code Information ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
