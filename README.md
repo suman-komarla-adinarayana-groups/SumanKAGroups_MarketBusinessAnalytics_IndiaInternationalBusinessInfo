@@ -1,1 +1,1 @@
-.
+https://github.com/suman-komarla-adinarayana-groups/SumanKAGroups_MarketBusinessAnalytics_IndiaInternationalBusinessInfo/blob/3ebc28c98a9392869cf015d196bef70dea647bb3/SumanKomarlaAdinarayana_Groups_AITPA9662R_ArtificialIntelligenceMachineLearning.md
