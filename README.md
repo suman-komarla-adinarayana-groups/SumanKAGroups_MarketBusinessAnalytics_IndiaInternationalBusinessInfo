@@ -90,9 +90,23 @@ https://indiamags.com/category/education-magazines
 
 https://opensource.com/
 
-https://joss.theoj.org/
-
 https://www.codemag.com/Magazine
+
+
+https://github.blog/news-insights/company-news/2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/
+
+https://github.blog/ai-and-ml/
+
+
+
+
+
+
+Research Paper Publications - 
+
+https://www.jair.org/index.php/jair
+
+https://ijai.iaescore.com/index.php/IJAI
 
 https://scienxt.com/sjaiml/
 
@@ -106,17 +120,7 @@ https://ijair.id/index.php/ijair
 
 https://jair.org/index.php/jair/about
 
-https://github.blog/news-insights/company-news/2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/
-
-
-Research Paper Publications - 
-
-https://www.jair.org/index.php/jair
-
-https://ijai.iaescore.com/index.php/IJAI
-
-
-
+https://joss.theoj.org/
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
