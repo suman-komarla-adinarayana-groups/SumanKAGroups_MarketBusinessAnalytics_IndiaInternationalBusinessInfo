@@ -131,6 +131,9 @@ https://aiweekly.co/
 
 https://analyticsindiamag.com/
 
+https://aecmag.com/magazines/
+
+
 
 https://indiaopensource.com/our-magazines/
 
