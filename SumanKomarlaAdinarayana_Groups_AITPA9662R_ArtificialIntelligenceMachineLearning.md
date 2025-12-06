@@ -133,6 +133,13 @@ https://analyticsindiamag.com/
 
 https://aecmag.com/magazines/
 
+https://www.analyticsinsight.net/magazine/archive/analytics-insight-magazines
+
+
+
+
+
+
 
 
 https://indiaopensource.com/our-magazines/
