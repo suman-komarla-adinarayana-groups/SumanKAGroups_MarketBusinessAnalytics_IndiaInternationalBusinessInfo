@@ -127,7 +127,9 @@ https://aimagazine.com/magazines
 
 https://www.analyticsinsight.net/magazines
 
+https://aiweekly.co/
 
+https://analyticsindiamag.com/
 
 
 https://indiaopensource.com/our-magazines/
