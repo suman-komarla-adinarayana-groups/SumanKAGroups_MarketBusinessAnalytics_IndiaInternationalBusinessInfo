@@ -19,7 +19,7 @@ Fields of Application - Commercial
 
 
 
-Fields of Application - Non-Commercial (Unmanned / Remote/ Riskfree/ Safe Extremes/ Supercomputing / etc )
+Fields of Application - Non-Commercial (Unmanned / Remote/ Riskfree/ Safe Extremes/ Supercomputing / Personal Assistance/ etc )
 
       https://en.wikipedia.org/wiki/Robotics
       
@@ -119,6 +119,13 @@ https://openlearning.unesco.org/courses
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+
+https://aimagazine.com/magazines
+
+
+
+
+
 https://indiaopensource.com/our-magazines/
 
 https://magazine.opensourceforu.com/
@@ -130,7 +137,6 @@ https://indiamags.com/category/education-magazines
 https://opensource.com/
 
 https://www.codemag.com/Magazine
-
 
 https://github.blog/news-insights/company-news/2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/
 
