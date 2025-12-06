@@ -19,7 +19,7 @@ Fields of Application - Commercial
 
 
 
-Fields of Application - Non-Commercial (Unmanned / Remote/ Riskfree/ Safe Extremes/ Supercomputing / Personal Assistance/ etc )
+Fields of Application - Non-Commercial ( Personal Remote Assistance/ Unmanned / Remote/ Riskfree/ Safe Extremes/ Supercomputing /  etc )
 
       https://en.wikipedia.org/wiki/Robotics
       
