@@ -71,6 +71,11 @@ SECTOR_FMCG -
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 Massive_open_online_course/OpenCourseware/Free Learning Courses
+[
+Refer:- https://en.wikipedia.org/wiki/List_of_MOOC_providers
+]
+
+
 
 https://en.wikipedia.org/wiki/Massive_open_online_course
 
@@ -82,6 +87,7 @@ https://www.youtube.com/@ignou
 
 https://onlinecourses.nptel.ac.in/
 
+https://openlearning.unesco.org/courses
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
