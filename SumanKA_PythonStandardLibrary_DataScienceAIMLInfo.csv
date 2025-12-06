@@ -4,7 +4,7 @@ Sl No, From Library,Import SubLibrary , Path,Releases Path,Developers Github Pat
 3,Scikit,,https://scikit-learn.org/dev/developers/contributing.html,,https://github.com/scikit-learn/scikit-learn,,,,
 4,matplot,,,,,,,,
 5,matplotlib,,https://matplotlib.org/,,https://github.com/matplotlib/matplotlib,,,,
-6,pytorch,,https://pytorch.org/,,,,,,
+6,pytorch,,https://pytorch.org/,,https://github.com/pytorch/pytorch,,,,
 7,xgboost,, https://xgboost.readthedocs.io/,,,,,,
 8,jupyter,,,,,,,,
 9,jupyterlab,,https://pypi.org/project/jupyterlab/,,,,,,
