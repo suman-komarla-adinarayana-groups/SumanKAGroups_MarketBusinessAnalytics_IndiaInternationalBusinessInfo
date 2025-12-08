@@ -24,7 +24,7 @@ Sl No, From Library,Import SubLibrary , Path,Releases Path,Developers Github Pat
 23,scipy,,https://scipy.org/,,https://github.com/scipy/scipy,,,,
 5,sys,,https://docs.python.org/3/library/sys.html,,,,,,
 5,os,,https://docs.python.org/3/library/os.html,,,,,,
-5,,,,,,,,,
+5,Scikit-Learn,,,,,,,,
 5,,,,,,,,,
 5,,,,,,,,,
 5,,,,,,,,,
