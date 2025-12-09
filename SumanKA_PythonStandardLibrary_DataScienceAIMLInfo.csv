@@ -19,7 +19,7 @@ Sl No, From Library,Import SubLibrary , Path,Releases Path,Developers Github Pat
 18,json,,,,,,,,
 19,tiktoken,,,,,,,,
 20,langchain,,https://python.langchain.com/docs/introduction/,,,Natural Language Processing,,,
-21,huggingface_hub,,https://huggingface.co/,,,Natural Language Processing,,,
+21,huggingface_hub,,https://huggingface.co/,,https://github.com/huggingface,Natural Language Processing,,,
 22,llama_cpp,,https://llama-cpp.com/,,,,,,
 23,scipy,,https://scipy.org/,,https://github.com/scipy/scipy,,,,
 5,sys,,https://docs.python.org/3/library/sys.html,,,,,,
