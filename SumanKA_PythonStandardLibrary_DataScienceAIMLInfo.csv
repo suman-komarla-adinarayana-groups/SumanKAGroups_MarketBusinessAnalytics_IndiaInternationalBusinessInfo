@@ -13,7 +13,7 @@ Sl No, From Library,Import SubLibrary , Path,Releases Path,Developers Github Pat
 12,opencv-python,cv2,https://docs.opencv.org/4.x/d1/dfb/intro.html,,,,,,
 13,keras,,https://keras.io/,,https://github.com/keras-team,Deep Learning Frameworks,,,
 14,tensorflow,,https://www.tensorflow.org/,,https://github.com/tensorflow,Deep Learning Frameworks,,,
-15,sklearn,,https://sklearn.org/,,,,,,
+15,sklearn,,https://sklearn.org/,,https://github.com/scikit-learn/scikit-learn,,,,
 16,warnings,,https://docs.python.org/3/library/warnings.html,,,,,,
 17,google.colab,,https://colab.research.google.com/,,,,,https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb,
 18,json,,,,,,,,
