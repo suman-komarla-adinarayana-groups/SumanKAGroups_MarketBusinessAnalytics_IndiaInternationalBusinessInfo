@@ -135,7 +135,7 @@ https://aecmag.com/magazines/
 
 https://www.analyticsinsight.net/magazine/archive/analytics-insight-magazines
 
-
+https://www.technologyreview.com/topic/artificial-intelligence/
 
 
 
