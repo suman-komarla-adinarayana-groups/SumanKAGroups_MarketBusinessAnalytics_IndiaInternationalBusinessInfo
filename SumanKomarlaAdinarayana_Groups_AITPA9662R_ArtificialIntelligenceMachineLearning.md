@@ -137,7 +137,7 @@ https://www.analyticsinsight.net/magazine/archive/analytics-insight-magazines
 
 https://www.technologyreview.com/topic/artificial-intelligence/
 
-
+https://www.dqindia.com/
 
 
 
