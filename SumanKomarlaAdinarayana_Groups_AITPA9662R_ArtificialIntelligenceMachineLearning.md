@@ -139,6 +139,13 @@ https://www.technologyreview.com/topic/artificial-intelligence/
 
 https://www.dqindia.com/
 
+https://www.bisinfotech.com/bisinfotech-magazine-june-2025/
+
+https://www.networkworld.com/
+
+https://www.infoworld.com/
+
+
 
 
 
