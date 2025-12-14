@@ -14,6 +14,11 @@ https://services.gst.gov.in/services/quicklinks/registration
 
 https://www.startupindia.gov.in/content/sih/en/government-schemes.html
 
+https://msme.gov.in/all-schemes-msme
+
+https://indiainvestmentgrid.gov.in/opportunities
+
+https://www.investindia.gov.in/
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Business Governance (India International Info) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
