@@ -8,7 +8,12 @@ https://www.linkedin.com/in/suman-komarla-adinarayana-groups-aitpa9662r/
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ About Me ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Business Governance (India International Info) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
-Ease of Doing Business/Policies/Schemes/Grants/Knowledge & Skill Development/Import/Export
+Ease of Doing Business/Business Registration/Policies/Schemes/Grants/Knowledge & Skill Development/Import/Export/Investor Information/Government Market Research Report and Investor Guide
+
+https://services.gst.gov.in/services/quicklinks/registration
+
+https://www.startupindia.gov.in/content/sih/en/government-schemes.html
+
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Business Governance (India International Info) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
