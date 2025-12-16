@@ -137,7 +137,7 @@ https://openlearning.unesco.org/courses
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-information technology/data science/analytics/computation/digital/storage technology/cloud technology/data security/etc
+information technology/data science/analytics/computation/digital/storage technology/cloud technology/data security/server/memory disk and card/network/etc
 
 https://aimagazine.com/magazines
 
@@ -161,7 +161,9 @@ https://www.networkworld.com/
 
 https://www.infoworld.com/
 
+https://datacentremagazine.com/magazines
 
+https://www.admin-magazine.com/Articles
 
 
 
