@@ -165,11 +165,21 @@ https://datacentremagazine.com/magazines
 
 https://www.admin-magazine.com/Articles
 
+https://www.digit.in/
+
+https://www.linux-magazine.com/
+
+https://www.pcquest.com/
+
+https://www.macworld.com/
+
+https://www.pcworld.com/
+
+https://magazine.opensourceforu.com/
+
 
 
 https://indiaopensource.com/our-magazines/
-
-https://magazine.opensourceforu.com/
 
 https://mysubs.in/category/education-magazine-subscription?
 
