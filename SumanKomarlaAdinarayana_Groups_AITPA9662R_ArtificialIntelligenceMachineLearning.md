@@ -137,6 +137,7 @@ https://openlearning.unesco.org/courses
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+information technology/data science/analytics/computation/digital/storage technology/cloud technology/data security/etc
 
 https://aimagazine.com/magazines
 
