@@ -83,7 +83,7 @@ ISO/IEC TR 5469:2024 Artificial intelligence — Functional safety and AI system
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-GLOBAL MARKET SECTORS with Futuristic Applications of AI/Early Adopters
+GLOBAL MARKET SECTORS with Futuristic Applications of AI/Early Adopters (NSE/BSE/Mainstream formal/business sectors) and value sectors
 
 SECTOR_AUTO - 
 
