@@ -221,6 +221,17 @@ https://joss.theoj.org/
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Research Paper Information₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+https://scholar.google.com/
+
+https://orcid.org/
+
+https://www.zotero.org/
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Research Paper Information₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
