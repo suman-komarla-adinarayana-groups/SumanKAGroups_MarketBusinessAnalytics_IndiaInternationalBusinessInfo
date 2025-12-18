@@ -239,6 +239,13 @@ https://www.zotero.org/
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+https://en.wikipedia.org/wiki/The_World%27s_Billionaires
+
+https://www.forbes.com/billionaires/
+
+https://www.forbes.com/lists/india-billionaires/
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
