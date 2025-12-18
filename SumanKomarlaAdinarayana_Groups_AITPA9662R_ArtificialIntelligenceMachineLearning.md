@@ -245,6 +245,7 @@ https://www.forbes.com/billionaires/
 
 https://www.forbes.com/lists/india-billionaires/
 
+https://www.forbesindia.com/lists/rich-list-2025
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
