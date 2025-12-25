@@ -223,6 +223,13 @@ https://jair.org/index.php/jair/about
 
 https://joss.theoj.org/
 
+
+https://en.wikipedia.org/wiki/Category:Films_about_robots
+
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_films
+
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
