@@ -120,6 +120,9 @@ SECTOR_FMCG -
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Open Library/ Open Courses/ Open Study Materials ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+
 Massive_open_online_course/OpenCourseware/Free Learning Courses
 [
 Refer:- https://en.wikipedia.org/wiki/List_of_MOOC_providers
@@ -139,6 +142,17 @@ https://onlinecourses.nptel.ac.in/
 
 https://openlearning.unesco.org/courses
 
+
+
+https://ndl.education.gov.in/home
+
+https://elib.org.in/
+
+https://openlibrary.org/
+
+https://project.ndl.gov.in/
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Open Library/ Open Courses/ Open Study Materials ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Newspapers/Magazines/Television Channels/Podcasts₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
