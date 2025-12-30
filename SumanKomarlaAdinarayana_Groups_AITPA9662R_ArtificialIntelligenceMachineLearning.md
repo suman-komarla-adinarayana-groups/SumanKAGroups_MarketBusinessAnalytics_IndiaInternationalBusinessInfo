@@ -275,6 +275,21 @@ https://www.forbes.com/lists/india-billionaires/
 
 https://www.forbesindia.com/lists/rich-list-2025
 
+
+https://www.forbes.com/lists/ai50/
+
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_companies
+
+
+
+Technical Analysis
+
+https://en.wikipedia.org/wiki/List_of_chatbots
+
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects
+
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Market Analysis/Intelligence - AI Business Financial Valuation₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
