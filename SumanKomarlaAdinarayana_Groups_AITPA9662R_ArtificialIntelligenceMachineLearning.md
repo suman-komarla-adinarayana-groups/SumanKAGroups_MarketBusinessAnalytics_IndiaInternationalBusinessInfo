@@ -144,6 +144,15 @@ https://openlearning.unesco.org/courses
 
 
 
+https://www.nseacademy.com/
+
+https://www.bseindia.com/research_analysts.html
+
+https://www.iso20022.org/welcome-iso-15022
+
+https://online.nism.ac.in/exploreAllCourses.html
+
+
 https://ndl.education.gov.in/home
 
 https://elib.org.in/
