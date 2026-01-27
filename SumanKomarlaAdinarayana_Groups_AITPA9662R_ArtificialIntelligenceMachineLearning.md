@@ -60,6 +60,7 @@ Fields of Application - Non-Commercial ( Personal Remote Assistance/ Unmanned / 
 
       https://en.wikipedia.org/wiki/Business_intelligence
 
+      https://en.wikipedia.org/wiki/Superintelligence#Feasibility_of_artificial_superintelligence
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Ethical Applications ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
@@ -109,6 +110,8 @@ https://copilot.microsoft.com/
 https://www.deepseek.com/en/
 
 https://chatgpt.com/
+
+https://lens.google/
 
 
 
