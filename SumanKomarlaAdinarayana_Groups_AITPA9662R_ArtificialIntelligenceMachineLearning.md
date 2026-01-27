@@ -51,8 +51,14 @@ Fields of Application - Non-Commercial ( Personal Remote Assistance/ Unmanned / 
       https://en.wikipedia.org/wiki/Microeconomics
       
       https://en.wikipedia.org/wiki/Macroeconomics
-      
 
+      https://en.wikipedia.org/wiki/Personal_finance
+
+      https://en.wikipedia.org/wiki/Enterprise_resource_planning
+
+      https://en.wikipedia.org/wiki/Market_intelligence
+
+      https://en.wikipedia.org/wiki/Business_intelligence
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Ethical Applications ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
