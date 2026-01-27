@@ -94,6 +94,18 @@ SECTOR_AUTO -
 
 SECTOR_IT - 
 
+IT_NaturalLanguageProcessing
+
+https://gemini.google.com/app?hl=en-IN
+
+https://copilot.microsoft.com/
+
+https://www.deepseek.com/en/
+
+https://chatgpt.com/
+
+
+
 SECTOR_BANK - 
 
 SECTOR_HEALTHCARE - 
