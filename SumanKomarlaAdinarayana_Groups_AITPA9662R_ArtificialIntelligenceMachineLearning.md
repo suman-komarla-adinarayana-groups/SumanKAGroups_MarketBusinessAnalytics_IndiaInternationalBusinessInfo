@@ -132,6 +132,12 @@ SECTOR_FMCG -
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Top AI ML Courses ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Top AI ML Courses ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Open Library/ Open Courses/ Open Study Materials ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
