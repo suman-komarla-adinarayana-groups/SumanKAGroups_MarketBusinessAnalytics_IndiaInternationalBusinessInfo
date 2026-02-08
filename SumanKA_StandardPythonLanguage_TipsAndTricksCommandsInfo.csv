@@ -1,4 +1,23 @@
-Standardised Stages/Processes of AIML DEVELOPMENT / Data Analysis
+ISO Standardised Stages/Processes of AIML DEVELOPMENT / Data Analysis
+
+https://www.iso.org/sectors/it-technologies/ai
+https://www.iso.org/artificial-intelligence
+https://www.iso.org/artificial-intelligence/machine-learning
+https://www.iso.org/standard/74438.html (ISO/IEC 23053:2022, Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML))
+
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+How machine learning works
+The first step in machine learning is collecting relevant data which may come from sources such as databases, sensors or the Internet.
+
+1) Preprocessing data: Once the data is collected, it needs to be preprocessed to ensure its quality and suitability for analysis.
+2) Training the model: The next step is to train a machine learning model – an algorithm or mathematical representation that learns to make predictions or decisions from input data.
+3) Feature selection and engineering: That machine learning model then selects the most relevant features from the input data that will have a significant impact on the model’s performance.
+4) Evaluating and optimizing the model: Once a model is trained, it needs to be evaluated to assess its performance and determine whether it meets the desired criteria.
+5) Deployment and monitoring: After successful training and evaluation, the model can be deployed in real-world applications of machine learning.
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
