@@ -232,6 +232,14 @@ https://www.pcworld.com/
 
 https://magazine.opensourceforu.com/
 
+Information Technology 
+
+https://www.theciomagazine.com/magazine/
+
+https://www.cioinsiderindia.com/magazines/2026/
+
+https://cioviews.com/magazines/
+
 
 
 https://indiaopensource.com/our-magazines/
