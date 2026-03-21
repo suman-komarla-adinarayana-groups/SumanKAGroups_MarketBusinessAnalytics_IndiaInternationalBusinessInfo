@@ -263,6 +263,8 @@ https://www.ted.com/playlists/310/artificial_intelligence
 
 Research Paper Publications - 
 
+https://scholar.google.com/
+
 https://www.jair.org/index.php/jair
 
 https://ijai.iaescore.com/index.php/IJAI
