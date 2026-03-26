@@ -308,6 +308,12 @@ https://orcid.org/
 
 https://www.zotero.org/
 
+https://scolary.com/
+
+https://doaj.org/
+
+https://www.oalib.com/
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹AI Research Paper Information₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
