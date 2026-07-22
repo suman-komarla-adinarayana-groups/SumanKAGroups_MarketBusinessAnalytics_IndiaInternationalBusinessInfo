@@ -24,6 +24,7 @@ https://www.education.gov.in/
 
 https://project.ndl.gov.in/
 
+https://en.wikipedia.org/wiki/Artificial_intelligence_in_India
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Business Governance (India International Info) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
@@ -380,9 +381,32 @@ AGENTIC AI
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Process₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹OPEN DATA₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹OPEN DATA₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+
 ₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹
 
 https://en.wikipedia.org/wiki/List_of_artificial_intelligence_companies
+
+https://en.wikipedia.org/wiki/Lists_of_open-source_artificial_intelligence_software
+
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_journals
+
+https://en.wikipedia.org/wiki/List_of_information_systems_journals
+
+https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages#Artificial_intelligence
+
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects
+
+https://en.wikipedia.org/wiki/Open-source_artificial_intelligence
+
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_algorithms
+
+https://en.wikipedia.org/wiki/List_of_large_language_models
+
+https://en.wikipedia.org/wiki/Common_Crawl
 
 Microsoft Co-Pilot
 
