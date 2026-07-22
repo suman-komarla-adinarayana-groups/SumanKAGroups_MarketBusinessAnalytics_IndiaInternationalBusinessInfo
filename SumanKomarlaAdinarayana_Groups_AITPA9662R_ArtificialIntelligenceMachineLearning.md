@@ -147,7 +147,7 @@ SECTOR_FINANCIALSERVICES -
 SECTOR_FMCG - 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Commercial AI Solutions and VENDORS/TECHNOLOGY SPONSORS ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
-
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_companies
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Top AI ML Courses ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Top AI ML Courses ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
@@ -381,6 +381,8 @@ AGENTIC AI
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Process₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹ COMMERCIAL AI DEPLOYMENTS IN PUBLIC USE (by MAJOR CLOUD/HARDWARE/PC/GPU/Microprocessor/Computer/Supercomputer/Software/IT Vendors) ₹₹₹₹₹₹₹₹₹₹₹
+
+https://en.wikipedia.org/wiki/List_of_artificial_intelligence_companies
 
 Microsoft Co-Pilot
 
